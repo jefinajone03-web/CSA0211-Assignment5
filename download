@@ -1,0 +1,13 @@
+*.exe
+*.o
+*.out
+bloodbank
+b1_recursion
+b1_crash_limit
+b2_adversarial
+b3_text_vs_binary
+b4_growable_list
+partA_demos
+donors.txt
+donors.dat
+stock.dat
